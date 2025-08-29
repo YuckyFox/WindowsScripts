@@ -22,6 +22,7 @@ Designed for system administrators and power users who want to keep Windows clea
 ## Important Notes
 
 - **Antivirus software may detect or remove these EXE files.** This is because each EXE is an SFX archive containing BAT files and XML definitions for Task Scheduler. This behavior is false-positive.
+- **Scripts inside the XML are encoded in a single line** so they can be passed as a single argument to PowerShell.
 
 ## Source Code
 
