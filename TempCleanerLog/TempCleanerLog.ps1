@@ -1,0 +1,1 @@
+wevtutil el | % {try {wevtutil cl $_; Write-Host "$_"} catch {}}

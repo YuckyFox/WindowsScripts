@@ -1,0 +1,1 @@
+Remove-Item -Path $env:SystemDrive\Windows\Prefetch\* -Recurse -Force -ErrorAction SilentlyContinue
