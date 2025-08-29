@@ -2,7 +2,6 @@
 
 A set of standalone executables that automate routine Windows maintenance tasks.
 Each utility automatically creates a Task Scheduler task when run, so no manual setup is required.
-Designed for system administrators and power users who want to keep Windows clean and under control.
 
 ## Utilities
 
