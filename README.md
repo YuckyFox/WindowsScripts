@@ -8,7 +8,7 @@ Designed for system administrators and power users who want to keep Windows clea
 
 - **DisableComputerRestore.exe** — Disable System Restore and delete all shadow copies on all drives every week.
 - **DisableWindowsUpdates.exe** — Synchronize system time and pause Windows Updates.
-- **TempCleaner.exe** — Clean user temp files and crash dumps every login.
+- **TempCleaner.exe** — Clean users temp files and crash dumps every login.
 - **TempCleanerLog.exe** — Clear temp logs on the first day of each month.
 - **TempCleanerPrefetch.exe** — Clear Prefetch folder every week.
 
