@@ -19,6 +19,10 @@ Designed for system administrators and power users who want to keep Windows clea
 - Each utility will automatically create a Task Scheduler task and run silently without prompts.  
 - After the task is created, the EXE itself can be safely deleted.  
 
+## Important Notes
+
+- **Antivirus software may detect or remove these EXE files.** This is because each EXE is an SFX archive containing BAT files and XML definitions for Task Scheduler. This behavior is false-positive.
+
 ## Source Code
 
 The source code for all utilities is included in this repository.  
@@ -29,4 +33,4 @@ Each EXE handles its own automation via Task Scheduler, so you can pick only the
 
 ---
 
-*Built for Windows 10/11.*
+*Built for Windows 10/11*
